@@ -35,5 +35,8 @@
 
 ```bash
 GET http://127.0.0.1:8000/api/rates?from=EUR&to=RUB&value=1
+```
 
+Список доступных валют
+```bash
 GET http://127.0.0.1:8000/api/currencies
