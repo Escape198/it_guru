@@ -11,7 +11,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/ваш-репозиторий/currency-converter-api.git
+    git clone https://github.com/Escape198/it_guru.git
     cd it_guru
     ```
 
